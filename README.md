@@ -1,0 +1,2 @@
+# Issues
+KuronekoServerで運営する各サービスのバグ等の報告用
